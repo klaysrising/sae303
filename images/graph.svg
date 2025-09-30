@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="fl-legend-discrete-color-0-svg-screenshot-container" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 2346.9 1306.7">
+  <!-- Generator: Adobe Illustrator 29.8.0, SVG Export Plug-In . SVG Version: 2.1.1 Build 160)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+        stroke: #eee;
+        stroke-width: 2px;
+      }
+
+      .st2 {
+        font-size: 37.9px;
+      }
+
+      .st2, .st3, .st4, .st5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st6, .st7, .st3, .st4, .st8, .st5, .st9, .st10, .st11 {
+        isolation: isolate;
+      }
+
+      .st7, .st8, .st9 {
+        fill-opacity: .9;
+      }
+
+      .st7, .st8, .st9, .st10, .st11 {
+        opacity: .9;
+      }
+
+      .st7, .st12 {
+        fill: #1d1d1b;
+      }
+
+      .st3 {
+        font-size: 32px;
+      }
+
+      .st3, .st4 {
+        fill: #4a4a4a;
+      }
+
+      .st4 {
+        font-size: 31.2px;
+      }
+
+      .st8 {
+        fill: #e30613;
+      }
+
+      .st5 {
+        fill: #333;
+        font-size: 37.5px;
+      }
+
+      .st9, .st11 {
+        fill: #fcbf1b;
+      }
+
+      .st10 {
+        fill: #e73926;
+      }
+
+      .st1 {
+        stroke-linecap: square;
+      }
+    </style>
+  </defs>
+  <g>
+    <line class="st1" x1="178.3" y1="1146.6" x2="1959.4" y2="1146.6"/>
+    <line class="st0" x1="455.9" y1="1140" x2="455.9" y2="1156.1"/>
+    <text id="texte" class="st3" transform="translate(420 1185.2)"><tspan x="0" y="0">2003</tspan></text>
+    <text id="texte1" data-name="texte" class="st3" transform="translate(1032.9 1190.9)"><tspan x="0" y="0">2014</tspan></text>
+    <text id="texte2" data-name="texte" class="st3" transform="translate(1626.6 1191.4)"><tspan x="0" y="0">2024</tspan></text>
+    <line class="st0" x1="1068.8" y1="1145.7" x2="1068.8" y2="1161.7"/>
+    <line class="st0" x1="1662.6" y1="1146.1" x2="1662.6" y2="1162.2"/>
+    <line class="st1" x1="178.3" y1="1146.6" x2="178.3" y2="71.5"/>
+    <line class="st0" x1="163.7" y1="1143.5" x2="148" y2="1143.5"/>
+    <text id="texte3" data-name="texte" class="st4" transform="translate(122.6 1153.7)"><tspan x="0" y="0">0</tspan></text>
+    <line class="st0" x1="185.4" y1="659.1" x2="169.6" y2="659.1"/>
+    <line class="st0" x1="189.9" y1="171" x2="174.3" y2="171"/>
+    <line class="st0" x1="176.6" y1="900.3" x2="160.9" y2="900.3"/>
+    <text id="texte4" data-name="texte" class="st4" transform="translate(96.4 181.3)"><tspan x="0" y="0">2000</tspan></text>
+    <text id="texte5" data-name="texte" class="st4" transform="translate(91.9 669.4)"><tspan x="0" y="0">1000</tspan></text>
+    <text id="texte6" data-name="texte" class="st4" transform="translate(100.6 910.5)"><tspan x="0" y="0">500</tspan></text>
+    <line class="st0" x1="185.4" y1="412.2" x2="169.6" y2="412.2"/>
+    <text id="texte7" data-name="texte" class="st4" transform="translate(91.9 422.5)"><tspan x="0" y="0">1500</tspan></text>
+  </g>
+  <g id="barres">
+    <g id="barre-5">
+      <g id="_x35_">
+        <path id="barre-5-2003-1905" class="st7" d="M248,1146.6h137.7V215.6h-137.7v931h0Z"/>
+        <path id="barre-5-2014-1741" class="st7" d="M841.7,1146.6h137.7V295.7h-137.7v850.8h0Z"/>
+        <path id="barre-5-2024-1697" class="st7" d="M1435.4,1146.6h137.7V341.7h-137.7v804.9h0Z"/>
+      </g>
+    </g>
+    <g id="barre-Entre">
+      <g id="Entre">
+        <path id="barre-Entre-2003-146" class="st9" d="M406.3,1146.6h137.7v-71.4h-137.7v71.4h0Z"/>
+        <path id="barre-Entre-2014-170" class="st9" d="M1000,1146.6h137.7v-83.1h-137.7v83.1Z"/>
+        <path id="barre-Entre-2024-226" class="st9" d="M1593.7,1146.6h137.7v-110.5h-137.7v110.5Z"/>
+      </g>
+    </g>
+    <g id="barre-10">
+      <g id="_x31_0">
+        <path id="barre-10-2003-74" class="st8" d="M564.7,1146.6h137.7v-36.2h-137.7v36.2Z"/>
+        <path id="barre-10-2014-106" class="st8" d="M1158.4,1146.6h137.7v-51.8h-137.7v51.8Z"/>
+        <path id="barre-10-2024-128" class="st8" d="M1752,1146.6h137.7v-62.6h-137.7v62.6Z"/>
+      </g>
+    </g>
+  </g>
+  <g id="bouton-5" class="st6">
+    <text id="texte8" data-name="texte" class="st5" transform="translate(1869.1 105)"><tspan x="0" y="0">5 screens or less</tspan></text>
+    <rect class="st12" x="1775" y="63" width="73" height="48" rx="3" ry="3"/>
+  </g>
+  <g id="bouton-Entre" class="st6">
+    <text id="texte9" data-name="texte" class="st5" transform="translate(1870.7 176.2)"><tspan x="0" y="0">6 to 10 screens</tspan></text>
+    <rect class="st11" x="1775" y="134.3" width="73" height="48" rx="3" ry="3"/>
+  </g>
+  <g id="bouton-10" class="st6">
+    <text id="texte10" data-name="texte" class="st5" transform="translate(1870.7 242.8)"><tspan x="0" y="0">more than 10 screens</tspan></text>
+    <rect class="st10" x="1775" y="205.7" width="73" height="48" rx="3" ry="3"/>
+  </g>
+  <text id="texte11" data-name="texte" class="st2" transform="translate(218.7 1253.9)"><tspan x="0" y="0">Interactive chart of the number of cinemas based on the number of screen (2003, 2014, 2024)</tspan></text>
+</svg>
